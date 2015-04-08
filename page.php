@@ -4,7 +4,9 @@ Template Name: Single Post
 */
 ?>
 <?php get_header(); ?>
-
+/* I added this comment as a test change to the file 
+Adding one more after syncing.
+*/
 <div id="padd-content">
 	<div id="padd-content-wrapper">
 	
